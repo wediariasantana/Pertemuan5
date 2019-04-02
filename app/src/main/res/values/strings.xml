@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Belajar Component View</string>
+    <string name="angular">Angular</string>
+    <string name="c">C#</string>
+    <string name="c1">C++</string>
+    <string name="css">CSS</string>
+    <string name="gander">Gander :</string>
+    <string name="html">HTML</string>
+    <string name="java">JAVA</string>
+    <string name="js">JS</string>
+    <string name="kompoten">Kompoten :</string>
+    <string name="masukkan_email">Masukkan Email</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="masukkan_no_hp">Masukkan No HP</string>
+    <string name="nodjs">NodJS</string>
+    <string name="php">PHP</string>
+    <string name="pria">Pria</string>
+    <string name="radiobutton">Tidak dilainya</string>
+    <string name="simpan">Simpan</string>
+    <string name="wanita">Wanita</string>
+</resources>
